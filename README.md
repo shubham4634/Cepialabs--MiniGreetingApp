@@ -6,7 +6,7 @@
 ## Simple Shopping Cart
 
 - This repo contains a simple shopping cart.
-- [ShoppingCart.jsx](src/GreetingApp.jsx) contains the main code.
+- [GreetingApp.jsx](src/GreetingApp.jsx) contains the main code.
 - Run:
 
 ```sh
@@ -15,3 +15,4 @@ npm run dev
 ```
 
   
+
